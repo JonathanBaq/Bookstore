@@ -14,7 +14,7 @@ import com.example.Bookstore.domain.Category;
 
 
 @ExtendWith(SpringExtension.class)
-@DataJpaTest
+
 public class BookRepositoryTest {
 	
 	@Autowired
