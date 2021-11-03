@@ -8,5 +8,5 @@ Spring Data REST api
 Spring Security for authorizations
 Spring Boot Testing
 
-##Deployment 
+## Deployment 
 Heroku: [Open Web App](https://tan-bookstore-backend-app.herokuapp.com/)
